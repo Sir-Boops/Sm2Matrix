@@ -14,7 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="25dp"
         android:layout_marginRight="25dp"
-        android:layout_marginBottom="29dp"
+        android:layout_marginBottom="25dp"
         android:text="Run" />
 
     <Button
@@ -24,9 +24,9 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginBottom="21dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginBottom="25dp"
         android:text="Save" />
 
     <EditText
@@ -38,7 +38,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="30dp"
         android:ems="10"
         android:hint="Username"
         android:inputType="textPersonName" />
@@ -50,9 +50,9 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="31dp"
-        android:layout_marginLeft="31dp"
-        android:layout_marginTop="97dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="90dp"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword" />
@@ -64,9 +64,9 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="27dp"
-        android:layout_marginLeft="27dp"
-        android:layout_marginTop="156dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="150dp"
         android:ems="10"
         android:hint="URL"
         android:inputType="textPersonName" />
@@ -78,9 +78,9 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="24dp"
-        android:layout_marginLeft="24dp"
-        android:layout_marginTop="218dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="210dp"
         android:ems="10"
         android:hint="Room ID"
         android:inputType="textPersonName" />
